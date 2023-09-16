@@ -19,3 +19,7 @@ cd satoshi
 python3 satoshi.py
 ```
 ____
+# :symbols: **Password:** 
+```
+SatoshiMatra
+```
