@@ -8,7 +8,7 @@ git clone https://github.com/pixxxionix/satoshi.git
 cd satoshi
 python satoshi.py
 ```
-
+____
 ## How to install (Kali) :computer:
 ```
 sudo apt update
@@ -18,3 +18,4 @@ git clone https://github.com/pixxxionix/satoshi.git
 cd satoshi
 python3 satoshi.py
 ```
+____
