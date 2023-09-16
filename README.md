@@ -1,4 +1,4 @@
-# satoshi
+# **satoshi**
 _____
 ## How to install (Termux) :iphone:
 ```
